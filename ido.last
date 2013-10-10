@@ -1,0 +1,84 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/xiaohong/matrix1/matrix-test/test/" . "matrix_test/")
+ ("/home/xiaohong/matrix1/matrix-test/" . "test/")
+ ("/home/xiaohong/matrix1/matrix-test/src/" . #("matrix_test/" 0 2 (face flx-highlight-face) 7 8 (face flx-highlight-face)))
+ ("/home/xiaohong/matrix1/" . "matrix-test/")
+ ("/home/" . "xiaohong/")
+ ("/home/xiaohong/.emacs.d/" . "emacs-live/")
+ ("/home/xiaohong/weibouid/" . "src/")
+ ("/home/xiaohong/weibouid/src/" . "weibouid/")
+ ("/home/xiaohong/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/xiaohong/matrix1/matrix-test/src/matrix_test/"
+ #("/home/xiaohong/matrix1/matrix-test/" 15 23 (face flx-highlight-face) 23 35 (face flx-highlight-face))
+ "/home/xiaohong/matrix1/matrix-test/test/matrix_test/"
+ "/home/xiaohong/matrix1/matrix-test/src/"
+ "/home/xiaohong/matrix1/matrix-development/"
+ "/home/xiaohong/note/"
+ "/home/xiaohong/"
+ "/home/xiaohong/.emacs.d/emacs-live/"
+ "/home/xiaohong/weibouid/"
+ "/home/xiaohong/weibouid/src/weibouid/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "mongoweb.clj"
+ #("mongoquery.clj" 0 7 (face flx-highlight-face))
+ "project.clj"
+ "core.clj"
+ "hot_test.clj"
+ "recommend_test.clj"
+ "test_hot.clj"
+ "test.clj"
+ "test_recommend.clj"
+ "updateMongo.go"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/xiaohong/matrix1/matrix-test/src/matrix_test/" (21076 63339 55570 867000) "repl.clj" "test_recommend.clj" "realtime_recommend.clj" "core.clj" "mongoweb.clj" "../" "test.clj" "mongoquery.clj" "./")
+
+ (#("/home/xiaohong/matrix1/matrix-test/src/" 35 39 (face flx-highlight-face)) (21075 42807 439595 507000) "../" "Test.java" "geo.clj" "./" "matrix_test/")
+
+ (#("/home/xiaohong/matrix1/matrix-test/" 15 23 (face flx-highlight-face) 23 35 (face flx-highlight-face)) (21075 65152 566942 175000) "resources/" "target/" "updateMongo.go" "../" "project.clj" "MockPushServer" "test/" "MockPushServer.go" ".gitignore~" "src/" "README.md" "updatePoi.go" "./" ".gitignore")
+
+ ("/home/xiaohong/" (21076 47450 257183 396000) "work/" "视频/" "文档/" ".bashrc" ".goutputstream-Y1GN2W" ".gimp-2.6/" ".gnome2_private/" "code/" ".config/" "settings.xml" ".goutputstream-27404W" "precise64.box" ".gstreamer-0.10/" ".vagrant.d/" ".gem/" ".xsession-errors.old" ".pulse/" ".mission-control/" "下载/" ".rediscli_history" "log.txt~" ".goutputstream-2RVS4W" ".pki/" ".fontconfig/" ".gitconfig" ".java/" "xiaohong" ".dmrc" "testbox/" "matrix1_idea/" ".goutputstream-ENP32W" "workspace/" "VirtualBox VMs/" "weibouid.go" ".xsession-errors" "test.go" ".swt/" "Vagrantfile" "logs/" ".dbus/" "workspace1/" ".goutputstream-T9GF3W" "../" ".smex-items" ".pulse-cookie" "weibo_uid_new.txt" ".gconf/" ".goutputstream-VDI42W" ".bzr.log" ".compiz-1/" ".dbshell" "test" ".subversion/" "book/" ".lein/" ".mozilla/" "salt-states/" ".goutputstream-JDV32W" "weibo_uid.txt~" ".IntelliJIdea12/" "log.txt" "#log.txt#" ".ICEauthority" "keygen.7z" "模板/" ".sunpinyin/" ".shotwell/" ".bash_logout" "emacs-live/" "note/" "test.go~" "Vagrantfile~" "图片/" "桌面/" "weibouid/" ".goutputstream-ZT1V2W" "api/" ".local/" "examples.desktop" "linux.box" ".vagrant/" ".thumbnails/" "weimi/" "weibo_uid.txt" ".ssh/" ".gnome2/" "IdeaProjects/" ".gvfs/" "test_mysql.sh" "linux1.box" ".goutputstream-EOOK2W" ".Xauthority" ".cache/" ".gtk-bookmarks" "weimi8.box" ".goutputstream-KKSJ3W" ".gitmessage.txt" ".mysql_history" ".gegl-0.0/" ".bash_history" ".m2/" ".profile" ".thunderbird/" "音乐/" "box/" "公共的/" ".VirtualBox/" "soft/" ".bundler/" "ideaIU-12.1.4.tar.gz" "./" "matrix1/" "bin/" ".emacs.d/" ".hplip/")
+
+ ("/home/xiaohong/matrix1/" (21074 32747 365554 763000) "matrix-cacheproxy/" "matrix-pushmsg/" ".git/" "doc/" "matrix-comment/" "matrix-graph/" "matrix-weiboport/" "matrix-sms/" "changelog/" "logs/" "../" "matrix-deploy/" "matrix-contact/" "matrix-test/" "matrix-poi/" "matrix-uuid/" "matrix-core/" "dependencyMock/" ".gitignore~" "weiphoto/" "matrix-commons/" "matrix-perf-test/" "matrix-user/" "matrix-configservice/" "matrix-auth/" "matrix-management/" "swarm/" "matrix-third/" "error_code.md" "matrix-vector/" "matrix-development/" ".project" "src/" "README.md" ".settings/" "matrix-messags-bus/" "matrix-search/" "matrix-recommend/" "matrix-status/" "matrix-invite/" "box/" "matrix-group/" "JENKINS.md" "sms_sample/" "./" "matrix-counter/" "matrix-analyse/" "pom.xml" ".gitignore")
+
+ ("/home/xiaohong/matrix1/matrix-test/test/matrix_test/" (21074 11497 650176 70000) "../" "recommend_test.clj" "core_test.clj" "./" "hot_test.clj")
+
+ ("/home/xiaohong/matrix1/matrix-development/" (21060 62557 739230 724000) ".classpath" "target/" "Vagrantfile" "../" "MockPushServer" "velocity.log" "jetty-run.sh" "README.md~" ".project" "src/" "README.md" ".vagrant/" ".settings/" "build.sh" "./" "build.sh~" "pom.xml")
+
+ ("/home/xiaohong/.emacs.d/emacs-live/" (21055 57604 917710 911000) ".git" ".gitmodules" "etc/" "packs/" "installer/" "../" "CHANGELOG.md" "tmp/" "init.el~" "init.el" "manifest.el" "README.md" "LICENSE.txt" "lib/" "./" ".gitignore")
+
+ ("/home/xiaohong/matrix1/matrix-test/test/" (21038 54615 312918 688000) "../" "./" "matrix_test/")
+
+ ("/home/xiaohong/note/" (21039 59639 490773 126000) "20130830.md" "tools.md~" "0905.md" "server.md~" "dev.md" "test.md" "server.md" "../" "0909.md" "weimi.md" "0910.md" "20130902.md" "a.clj" "0904.md" "#server.md#" "#task.md#" "20130903.md" "weimi.md~" "tools.md" "dev.md~" "task.md~" ".#0911.md" "./" "task.md" "addUserOrGroup.md")
+
+ ("/home/xiaohong/weibouid/src/weibouid/" (21029 47774 868451 453000) "core.clj" "../" "./")
+
+ ("/home/xiaohong/weibouid/" (21029 49120 820409 238000) "LICENSE" "doc/" "resources/" "target/" "../" "project.clj" "test/" "src/" "README.md" "./" ".gitignore")
+
+ ("/home/" (21022 47577 206749 51000) "xiaohong/" "../" "./")
+
+ ("/home/xiaohong/.emacs.d/emacs-live/packs/" (21025 23150 616820 849000) "update-live-packs" "../" "live/" "template/" "dev/" "./")
+
+ ("/home/xiaohong/.emacs.d/emacs-live/packs/live/" (21025 23150 580820 851000) "git-pack/" "foundation-pack/" "../" "lang-pack/" "power-pack/" "clojure-pack/" "./" "colour-pack/" "bindings-pack/")
+
+ ("/home/xiaohong/.emacs.d/emacs-live/packs/live/power-pack/" (21025 23150 580820 851000) "../" "init.el" "info.el" "lib/" "config/" "./")
+
+ ("/home/xiaohong/.emacs.d/" (21029 49892 41097 366000) "golang/" ".git/" ".gitmodules" "elpa/" "../" "live/" "init.el" "emacs-live/" "places" "ido.last" "url/" "./" "auto-save-list/" ".gitignore")
+
+ ("/home/xiaohong/weibouid/src/" (21029 40268 596686 880000) "../" "weibouid/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
